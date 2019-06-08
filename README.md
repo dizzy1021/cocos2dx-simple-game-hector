@@ -1,4 +1,4 @@
-c# simple-game-cocos2dx-hector
+# simple-game-cocos2dx-hector
 
 Simple and easy to play game
 
